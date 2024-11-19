@@ -11,9 +11,9 @@ Time spent: **6** hours spent in total
 
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **short description of your app**
+This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **Tinder but food. We are creating the fundemental layout and sillyness of tinder and appling it into the aspect of the culinary world to broaded the users horizons. Where the user is able to like and dislike an array of dishes, save their favorite ones, see the recipe to all and refine their food taste. It all starts with one swipe.**
 
-If we had to describe this milestone in three (3) emojis, they would be: **emojis here**
+If we had to describe this milestone in three (3) emojis, they would be: **🤤🥡🥙**
 
 ## Milestone Requirements
 
