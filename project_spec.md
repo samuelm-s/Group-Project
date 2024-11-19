@@ -11,8 +11,7 @@
 
 ### Description 
 
-**Tinder but food. We are creating the fundemental layout and sillyness of tinder and appling it into the aspect of the culinary world to broaded the users
-horizons. Where the user is able to like and dislike an array of dishes, save their favorite ones, see the recipe to all and refine their food taste. It all starts with one swipe.**
+**Tinder but food. We are creating the fundamental layout and silliness of Tinder and applying it to the aspect of the culinary world to broaden the users' horizons. Where the user is able to like and dislike an array of dishes, save their favorite ones, see the recipe to all, and refine their food taste. It all starts with one swipe.**
 
 ### App Evaluation
 
