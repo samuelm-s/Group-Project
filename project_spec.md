@@ -88,7 +88,7 @@ For Milestone 2, include **2+ Videos/GIFs** of the build process here!
 
 ## License
 
-Copyright **2024** **Samuel Mohr-Sanchez, Travis Arguello, Joshua Torres**
+Copyright **2099** **Samuel Mohr-Sanchez, Travis Arguello, Joshua Torres**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
