@@ -43,7 +43,7 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<gif src='https://imgur.com/ASgoMEB' title='Video Demo' width='' alt='Video Demo' />
+<gif src='https://i.imgur.com/0YBXlH5.gif' title='Video Demo' width='' alt='Video Demo' />
 
 VIDEO created with **ScreenToGif**
 
